@@ -2,7 +2,11 @@ var Experigen =  {
 	settings: {
 
         // SETUP: Enter Experiment Name
+<<<<<<< HEAD
 		experimentName: "HSElist3Dec12", // use only A-Z, a-z, 0-9
+=======
+		experimentName: "HSElist3", // use only A-Z, a-z, 0-9
+>>>>>>> fe16fd31bb0d131fc1173b5fc3535c3cbcde9760
 		
 		databaseServer: "http://db.phonologist.org/",
 
